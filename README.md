@@ -1,6 +1,6 @@
 # FinTech
 
-![FinTech logo](images/)
+![FinTech logo](images/fintech.png)
 
 ## Time for some action
 
@@ -12,4 +12,7 @@
 
 
 ---
+## More info
+
+For images see [here](images)
 
